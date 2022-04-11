@@ -1,3 +1,7 @@
 header{
     background-color:#dcdbb0;
 }
+
+.inline{
+    display: inline;
+}
